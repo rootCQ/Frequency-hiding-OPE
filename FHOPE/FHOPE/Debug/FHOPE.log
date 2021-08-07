@@ -1,0 +1,4 @@
+﻿aesBaseFunc.obj : error LNK2005: "class std::bitset<32> * Rcon" (?Rcon@@3PAV?$bitset@$0CA@@std@@A) 已经在 AES.obj 中定义
+aesBaseFunc.obj : error LNK2005: "class std::bitset<8> (* S_Box)[16]" (?S_Box@@3PAY0BA@V?$bitset@$07@std@@A) 已经在 AES.obj 中定义
+aesBaseFunc.obj : error LNK2005: "class std::bitset<8> (* Inv_S_Box)[16]" (?Inv_S_Box@@3PAY0BA@V?$bitset@$07@std@@A) 已经在 AES.obj 中定义
+D:\CODE\code_vs\FHOPE\Debug\FHOPE.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
